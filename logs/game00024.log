@@ -1,0 +1,13 @@
+# Server version 0.08 running on LAPTOP-GT5R74FK:8123
+# Game ID: 24
+# Board class: tablut.TablutBoard
+# Timeout: 700
+# First Move Timeout: 30000
+# Date: Sun Mar 25 23:34:36 EDT 2018
+# Player 1: Player-0, 'RandomPlayer', running on LAPTOP-GT5R74FK
+# Player 2: Player-1, 'Human', running on LAPTOP-GT5R74FK
+START Player-0 RandomPlayer
+START Player-1 Human
+7 4 7 5 0
+GAMEOVER USER CANCEL UNDECIDED
+# Game ended: Sun Mar 25 23:34:41 EDT 2018
