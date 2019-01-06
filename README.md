@@ -1,1 +1,1 @@
-See the two PDFs "code\_specification.pdf" and "project\_specification.pdf" to get started!
+Play the old Swedish game Tafl in solo mode against 3 levels of AI!
